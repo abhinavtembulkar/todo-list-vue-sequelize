@@ -1,3 +1,3 @@
 # todo-list-vue-sequelize
 
-<img src='./images/todo.png' height=200 width=400>
+<img src='./images/todo.png' height=400 width=800>
